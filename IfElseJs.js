@@ -20,6 +20,6 @@ let age=1;
  */
 
     // WHile Concept
-   // while(age>18 || age>=18){
+   while(age>18 || age>=18){
         console.log("while loop")
-  //  }
+   }
